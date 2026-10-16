@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.bundle
+*.zip
+*.tar.gz
+research/
+local-backups/
+.openai/
+.sites-runtime/
